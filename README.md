@@ -14,3 +14,8 @@
  * Testing the Optimized Model and Reporting its whereabouts and results.
  * After Prev.Step, if the obtained results are not still that convincing then "Repeat Prev->Prev.Step" with a more efficient technique.
  * Summary Report on the Model.
+ 
+ # To run on colab:
+ Before running the notebook on google colab, you may firstly need to upload in your google drive these 03 files {'Fake.csv', 'True.csv', 'News.csv'}  in the path that suits you best.
+ Secondly, in the notebook on colab, change the path variable to the specific location where you uploaded the above-mentioned files. 
+ (e.g: '/content/drive/My Drive/' or '/content/drive/My Drive/datasets/').
