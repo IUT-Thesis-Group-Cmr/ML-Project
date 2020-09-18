@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Problem Statement}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Detail of your problem application area/domain}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Challenges and Motivation}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Objectives}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Contribution}{section.1}% 6
+\BOOKMARK [1][-]{section.2}{Background Study}{}% 7
+\BOOKMARK [2][-]{subsection.2.1}{Overview of the project and related terms}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.2}{Data collection and feature analysis}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.3}{Description of theClassification Model}{section.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Classification Model used}{subsection.2.3}% 11
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Architectural Diagram of the Classifier}{subsection.2.3}% 12
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Explanation of the Parameters || Hyper-parameters}{subsection.2.3}% 13
+\BOOKMARK [1][-]{section.3}{Implementation}{}% 14
+\BOOKMARK [2][-]{subsection.3.1}{Overview of the experiment}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.2}{Feature engineering}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.3}{Training and Test Set Generation}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.4}{Running the Classifier}{section.3}% 18
+\BOOKMARK [1][-]{section.4}{Result Analysis}{}% 19
+\BOOKMARK [2][-]{subsection.4.1}{Overview}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.2}{Generation of Confusion-Matrix \046 Heat-Map}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.3}{Result analysis}{section.4}% 22
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 23
